@@ -1,0 +1,30 @@
+{
+  "name": "@jp61/plantago",
+  "version": "1.0.0",
+  "description": "Plantago means plant and go, or plants from unit plantaginaceae.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp61/plantago.git"
+  },
+  "keywords": [
+    "plantago",
+    "means",
+    "plant",
+    "and",
+    "go",
+    "or",
+    "plant",
+    "unit",
+    "plantaginaceae"
+  ],
+  "author": "jp61",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp61/plantago/issues"
+  },
+  "homepage": "https://github.com/jp61/plantago#readme"
+}
